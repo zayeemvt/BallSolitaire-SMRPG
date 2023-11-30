@@ -185,7 +185,7 @@ class BallSolitaire:
 def main():
     game = BallSolitaire()
 
-    # printHelp()
+    printHelp()
 
     print(" === GAME START ===\n")
 
