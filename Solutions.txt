@@ -1,0 +1,19 @@
+NOTE: This list is not comprehensive
+
+---
+SOLUTION #1
+---
+c3 u
+a2 r
+a4 u
+b4 u
+b1 d
+d4 l
+b4 u
+a1 d
+c2 l
+d1 l
+a3 u
+a1 r
+d3 u
+d1 l
